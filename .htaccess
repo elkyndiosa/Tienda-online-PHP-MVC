@@ -1,7 +1,7 @@
 <IfModule mod_rewrite.c >
 # Activar rewrite
 RewriteEngine on
-ErrorDocument 404 http://localhost/curso-php/tienda/index.php/error
+ErrorDocument 404 https://storeonlineproduct.herokuapp.com/error
 
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
