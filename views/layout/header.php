@@ -11,7 +11,7 @@
             <header>
                 <div class="bg-light p-3">
                     <a href="<?=base_url?>"><img src="<?= base_url ?>assets/img/camiseta.jpg" alt="" width="120"></a>
-                    <a href="<?=base_url?>" class="title ml-4 mt-1 ">Tieda Textil Store</a>
+                    <a href="<?=base_url?>" class="title ml-4 mt-1 ">Tieda Textil Store 2</a>
                 </div>
                 <nav class="navbar navbar-expand-sm bg-light navbar-light border-top">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
